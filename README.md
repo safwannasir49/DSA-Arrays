@@ -11,7 +11,7 @@ This repository contains a curated list of array-related coding problems categor
 ---
 <br>
 
-## 🟢 Easy Problems  
+## 🟢 Easy
 
 | Problem No. | Problem Name | Solution Code |
 |-------------|-------------|--------------|
@@ -34,7 +34,7 @@ This repository contains a curated list of array-related coding problems categor
 ---
 <br><br>
 
-## 🟡 Medium Problems  
+## 🟡 Medium 
 
 | Problem No. | Problem Name | Solution Code |
 |-------------|-------------|--------------|
@@ -62,7 +62,7 @@ This repository contains a curated list of array-related coding problems categor
 ---
 <br><br>
 
-## 🔴 Hard Problems  
+## 🔴 Hard
 
 | Problem No. | Problem Name | Solution Code |
 |-------------|-------------|--------------|
