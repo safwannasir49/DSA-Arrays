@@ -1,5 +1,14 @@
 # DSA-Arrays
 
+This repository contains a curated list of array-related coding problems categorized by difficulty (**Easy, Medium, Hard**), along with solution links.  
+
+## 📌 Categories  
+
+- **🟢 Easy:** Beginner-friendly problems to build foundational skills.  
+- **🟡 Medium:** Intermediate-level problems requiring problem-solving strategies.  
+- **🔴 Hard:** Advanced problems with complex logic and optimizations.  
+
+---
 <br>
 
 ## 🟢 Easy Problems  
