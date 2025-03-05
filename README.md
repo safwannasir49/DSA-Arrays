@@ -1,6 +1,6 @@
 # DSA-Arrays
 
-<br><br>
+<br>
 
 ## 🟢 Easy Problems  
 
