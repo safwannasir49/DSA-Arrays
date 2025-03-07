@@ -72,8 +72,12 @@ This repository contains a curated list of array-related coding problems categor
 | 39 | Count Inversions | [Solution](#) |
 | 40 | Reverse Pairs | [Solution](#) |
 
----
+<br>
+<hr/>
+
+
 <br><br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
        <a href="mailto:safwannasir49@gmail.com" target="blank">
@@ -89,3 +93,4 @@ This repository contains a curated list of array-related coding problems categor
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="safwannasir49" height="30" width="40" />
     </a>
 </p>
+
