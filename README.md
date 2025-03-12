@@ -29,6 +29,9 @@ This repository contains a curated list of array-related coding problems categor
 
 ---
 
+
+<br><br>
+
 ## 🟡 Medium
 <br>
 
@@ -46,6 +49,7 @@ This repository contains a curated list of array-related coding problems categor
 | 20  | **Next Permutation** | Compute the next lexicographical permutation of an array. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
 
 ---
+<br><br>
 
 ## 🔴 Hard
 <br>
