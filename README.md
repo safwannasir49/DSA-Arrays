@@ -11,66 +11,49 @@ This repository contains a curated list of array-related coding problems categor
 ---
 <br>
 
-## 🟢 Easy
+# 🟢 Easy
 
-| Problem No. | Problem Name | Solution Code |
-|-------------|-------------|--------------|
-| 1  | Largest Element in an Array | [Solution](#) |
-| 2  | Second Largest Element in an Array without sorting | [Solution](#) |
-| 3  | Check if the array is sorted | [Solution](#) |
-| 4  | Remove duplicates from sorted array | [Solution](#) |
-| 5  | Left Rotate an array by one place | [Solution](#) |
-| 6  | Left rotate an array by D places | [Solution](#) |
-| 7  | Move Zeros to end | [Solution](#) |
-| 8  | Linear Search | [Solution](#) |
-| 9  | Find missing number in an array | [Solution](#) |
-| 10 | Maximum Consecutive Ones | [Solution](#) |
-| 11 | Majority Element (>n/2 times) | [Solution](#) |
-| 12 | Kadane's Algorithm (Maximum subarray sum) | [Solution](#) |
-| 13 | Stock Buy and Sell | [Solution](#) |
-| 14 | Count subarrays with given sum | [Solution](#) |
-| 15 | Maximum Product Subarray | [Solution](#) |
+| 🔢 Problem No. | Name | 📖 Description | 🏷️ Topic |
+|--------------|------|----------------------|---------|
+| 1  | **Largest Element in an Array** | Find the maximum element in a given array. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 2  | **Second Largest Element in an Array (without sorting)** | Identify the second largest number without using sorting. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 3  | **Check if the Array is Sorted** | Verify if the given array is sorted in ascending order. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 4  | **Remove Duplicates from a Sorted Array** | Remove duplicate elements and return a unique set. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 5  | **Left Rotate an Array by One Place** | Shift elements to the left by one position. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 6  | **Left Rotate an Array by D Places** | Rotate an array left by D positions. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 7  | **Move Zeros to End** | Shift all zero elements to the end of the array. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 8  | **Linear Search** | Search for an element in an unsorted array. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 9  | **Find Missing Number in an Array** | Identify the missing number from a sequence of N numbers. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
+| 10 | **Maximum Consecutive Ones** | Find the longest streak of consecutive 1s in a binary array. | <img src="https://img.shields.io/badge/Arrays-%234CAF50.svg?style=flat" /> |
 
 ---
-<br><br>
 
-## 🟡 Medium 
+# 🟡 Medium
 
-| Problem No. | Problem Name | Solution Code |
-|-------------|-------------|--------------|
-| 16 | Find the Union | [Solution](#) |
-| 17 | Find the number that appears once (others appear twice) | [Solution](#) |
-| 18 | Longest subarray with given sum K (positives) | [Solution](#) |
-| 19 | Longest subarray with sum K (Positives + Negatives) | [Solution](#) |
-| 20 | 2Sum Problem | [Solution](#) |
-| 21 | Sort an array of 0's 1's and 2's | [Solution](#) |
-| 22 | Print subarray with maximum subarray sum | [Solution](#) |
-| 23 | Rearrange the array in alternating positive and negative items | [Solution](#) |
-| 24 | Next Permutation | [Solution](#) |
-| 25 | Leaders in an Array problem | [Solution](#) |
-| 26 | Longest Consecutive Sequence in an Array | [Solution](#) |
-| 27 | Set Matrix Zeros | [Solution](#) |
-| 28 | Rotate Matrix by 90 degrees | [Solution](#) |
-| 29 | Print the matrix in spiral manner | [Solution](#) |
-| 30 | Pascal's Triangle | [Solution](#) |
-| 31 | Majority Element (n/3 times) | [Solution](#) |
-| 32 | 3-Sum Problem | [Solution](#) |
-| 33 | Largest Subarray with 0 Sum | [Solution](#) |
-| 34 | Merge Overlapping Subintervals | [Solution](#) |
-| 35 | Merge two sorted arrays without extra space | [Solution](#) |
+| 🔢 Problem No. | Name | 📖 Description | 🏷️ Topic |
+|--------------|------|----------------------|---------|
+| 11  | **Majority Element (>n/2 times)** | Find the element that appears more than N/2 times. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 12  | **Kadane's Algorithm (Maximum Subarray Sum)** | Find the maximum sum of a contiguous subarray. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 13  | **Stock Buy and Sell** | Find the maximum profit in stock trading. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 14  | **Count Subarrays with Given Sum** | Count the number of subarrays with a specific sum. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 15  | **Maximum Product Subarray** | Find the maximum product of any contiguous subarray. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 16  | **Find the Union of Two Arrays** | Compute the union of two unsorted arrays. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 17  | **Find the Single Number (Others Appear Twice)** | Identify the unique element in an array where others appear twice. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 18  | **Longest Subarray with Sum K (Positive Numbers)** | Find the longest subarray with a given sum. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 19  | **Sort an Array of 0’s, 1’s, and 2’s** | Sort a binary array containing 0, 1, and 2. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
+| 20  | **Next Permutation** | Compute the next lexicographical permutation of an array. | <img src="https://img.shields.io/badge/Arrays-%23FFC107.svg?style=flat" /> |
 
 ---
-<br><br>
 
-## 🔴 Hard
+# 🔴 Hard
 
-| Problem No. | Problem Name | Solution Code |
-|-------------|-------------|--------------|
-| 36 | 4-Sum Problem | [Solution](#) |
-| 37 | Count number of subarrays with given XOR K | [Solution](#) |
-| 38 | Find the repeating and missing number | [Solution](#) |
-| 39 | Count Inversions | [Solution](#) |
-| 40 | Reverse Pairs | [Solution](#) |
+| 🔢 Problem No. | Name | 📖 Description | 🏷️ Topic |
+|--------------|------|----------------------|---------|
+| 21 | **4-Sum Problem** | Find all unique quadruplets that sum up to a target. | <img src="https://img.shields.io/badge/Arrays-%23DC3545.svg?style=flat" /> |
+| 22 | **Count Number of Subarrays with Given XOR K** | Count subarrays that yield a given XOR value. | <img src="https://img.shields.io/badge/Arrays-%23DC3545.svg?style=flat" /> |
+| 23 | **Find the Repeating and Missing Number** | Identify the missing and repeating number in an array. | <img src="https://img.shields.io/badge/Arrays-%23DC3545.svg?style=flat" /> |
+| 24 | **Count Inversions** | Count how many times an element is greater than a following element. | <img src="https://img.shields.io/badge/Arrays-%23DC3545.svg?style=flat" /> |
+| 25 | **Reverse Pairs** | Count the number of significant reverse pairs in an array. | <img src="https://img.shields.io/badge/Arrays-%23DC3545.svg?style=flat" /> |
 
 <br>
 <hr/>
